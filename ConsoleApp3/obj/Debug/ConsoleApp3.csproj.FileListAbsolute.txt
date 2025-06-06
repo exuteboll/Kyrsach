@@ -1,7 +1,0 @@
-C:\Курсовая\Programma(Code)\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\Курсовая\Programma(Code)\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\Курсовая\Programma(Code)\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\Курсовая\Programma(Code)\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
-C:\Курсовая\Programma(Code)\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-C:\Курсовая\Programma(Code)\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\Курсовая\Programma(Code)\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
